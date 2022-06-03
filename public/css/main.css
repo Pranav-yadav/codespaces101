@@ -24,6 +24,10 @@ body {
     white-space: pre-wrap;
 }
 
+code {
+    color: rgb(157, 49, 235);
+}
+
 @media only screen and (max-width: 600px) {
     .june-images {
         max-width: 340px;
